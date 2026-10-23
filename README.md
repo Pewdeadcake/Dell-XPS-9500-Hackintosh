@@ -1,5 +1,7 @@
 # Dell XPS 15 9500 (4K Touch) — OpenCore EFI for macOS Sonoma, Sequoia & Tahoe
 
+![alt text](https://github.com/Pewdeadcake/Dell-XPS-9500-Hackintosh/blob/main/Homescreen.png?raw=true)
+
 An OpenCore configuration for the **Dell XPS 15 9500 (2020), 4K UHD touchscreen**. The main target is **macOS Tahoe 26.x**. Booting has also been tested with macOS Sonoma and Sequoia, but each macOS release requires compatible Wi-Fi components and, on versions before Tahoe, a different audio setup.
 
 ## Hardware

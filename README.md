@@ -93,5 +93,3 @@ A single low or high frequency does not by itself prove that Turbo Boost is brok
 ### Audio on Tahoe
 
 macOS Tahoe removes the AppleHDA component that AppleALC normally relies on for analog audio. See the [Dortania Tahoe notes](https://dortania.github.io/OpenCore-Install-Guide/extras/tahoe.html) and [SimpleHDA's README](https://github.com/laobamac/SimpleHDA/blob/main/README.en.md). Keep the known-working layout rather than copying a layout from another laptop.
-
-Please read and follow the license terms of each upstream project and kext you use.

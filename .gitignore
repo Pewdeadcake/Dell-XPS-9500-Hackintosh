@@ -1,0 +1,18 @@
+# macOS / editor noise
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+.vscode/
+.idea/
+
+# Build/debug artifacts
+*.log
+*.dSYM/
+*.ips
+*.panic
+
+# OpenCore debug logs and generated reports
+EFI/OC/Logs/
+EFI/OC/SysReport/

@@ -30,10 +30,16 @@ Status below reflects this specific laptop and the author's testing. It is not a
 | Internal microphone | Working | `layout-id = 13` was the preferred working audio layout in this setup. |
 | Trackpad | Basic operation works; tuning may be needed | Tap-to-click, secondary-click and click feel depend on macOS settings and the I2C configuration. |
 | Webcam | Working |  |
+| SD reader | Working | Big thanks to @0xFireWolf |
+| Fingerprint reader | Working | Big thanks to @labrouss for the base of RidgeKey |
 | Bluetooth | Working (Kind of) | Airdrop is broken? |
 | iServices | Not Working | Trying to fix this atm |
-| SD reader, fingerprint reader | Not Working | Apple being apple ig. |
 | Sleep | Disabled | Big thanks to DELL. |
+
+## Credits of some really useful repo
+['SD Card Reader repo'](https://github.com/0xFireWolf/RealtekCardReader)
+['labrouss's RidgeKey'](https://github.com/labrouss/RidgeKey)
+['Modified RidgeKey version made by myself to get it work on XPS 9500'](https://github.com/Pewdeadcake/RidgeKey-Goodix-533c)
 
 ## macOS version notes
 
